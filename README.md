@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### 안녕하세요! 김재민입니다
 <!--
 **kimfunn/kimfunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

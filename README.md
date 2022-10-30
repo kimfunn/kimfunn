@@ -31,8 +31,9 @@
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
 | **Education** | 2022.03~ | Master’s Student in Data Intelligence Lab |	**Hanyang University** |
-| **Education** |	2016.03~2022.02 |	Majored in Embedded Systems Engineering |	**Incheon National University** |
 | **External Activity** | 2021.08~2021.12 | boostcamp AI Tech 2nd | **NAVER CONNECT** |
+| **Education** |	2016.03~2022.02 |	Majored in Embedded Systems Engineering |	**Incheon National University** |
+
 
 
 ###  Activities

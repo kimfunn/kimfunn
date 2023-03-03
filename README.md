@@ -1,7 +1,7 @@
 ###  Profile 
    *  Name : Na Yohan
    *  Birth Date : 1997/08/03
-   *  Interest : NLP, Multi-Modal
+   *  Interest : NLP, Dialogue System
 
 <!-- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayohan13@gmail.com)](mailto:nayohan13@gmail.com)
 -->

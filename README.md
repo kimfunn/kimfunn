@@ -1,5 +1,5 @@
 ###  Profile 
-   *  Name : Kim Jaemin
+   *  Name : Jaemin Kim
    *  Interest : NLP, Sentiment Analysis, Efficient Methods for PLMs.
 
 <!-- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayohan13@gmail.com)](mailto:jaemink@hanyang.ac.kr)

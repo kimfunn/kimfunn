@@ -25,13 +25,13 @@
 
 
 
-### Education
+### History
 
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
 | **Education** | 2022.03~ | Master’s Student in Data Intelligence Lab |	**Hanyang University** |
+| **Employment** | 2019.05~ 2021.05 | Researcher |	**KISTEP** |
 | **Education** |	2013.03 ~ 2019.02 |	Majored in Statistics |	**Sookmyung Women's University** |
-
 
 
 ###  Paper

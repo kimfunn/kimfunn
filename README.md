@@ -5,7 +5,7 @@
 <!-- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayohan13@gmail.com)](mailto:jaemink@hanyang.ac.kr)
 -->
 
-<a href="https://www.notion.so/745836a194304684b55c1beae0688949">
+<a href="https://buttery-step-b8f.notion.site/Jaemin-Kim-745836a194304684b55c1beae0688949">
     <img 
         src="http://img.shields.io/badge/-CV-black?style=flat&logo=Notion&link=https://nayohan.notion.site/f171ae04018c49d28a5d99298c0a5b28"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>

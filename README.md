@@ -30,7 +30,7 @@
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
 | **Employment** | 2023.07~  | Researcher |	**LG 전자** |
-| **Education** | 2022.03~ | Master’s Student in Data Intelligence Lab |	**Hanyang University** |
+| **Education** | 2022.03~2024.01 | Master’s Student in Data Intelligence Lab |	**Hanyang University** |
 | **Employment** | 2019.05~ 2021.05 | Researcher |	**KISTEP** |
 | **Education** |	2013.03 ~ 2019.02 |	Majored in Statistics |	**Sookmyung Women's University** |
 

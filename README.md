@@ -34,6 +34,13 @@
 | **Employment** | 2019.05~ 2021.05 | Researcher |	**KISTEP** |
 | **Education** |	2013.03 ~ 2019.02 |	Majored in Statistics |	**Sookmyung Women's University** |
 
+### Awards
+| **Type** | **Date** | **Contents** | **Organization** |
+|:--------:|:--------:|:--------:|:--------:|
+| **동상** | 2023.12  | Corning AI challenge - (track)Large language models (LLMs)을 이용한 query engine 작성 |	**Corning** |
+| **최우수상** | 2017.11  | 식품안전분야 공공데이터 활용 경진대회 |	**HACCP** |
+| **장려상** | 2017.10  | 공공데이터를 활용한 노인인식개선콘텐츠 공모전 |	**KORDI** |
+
 
 ###  Paper
 

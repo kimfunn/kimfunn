@@ -1,4 +1,4 @@
-###  Profile 
+##  Profile 
    *  Name : Jaemin Kim
    *  Interest : NLP, Sentiment Analysis, Efficient Methods for PLMs.
 
@@ -25,7 +25,7 @@
 
 
 
-### History
+## History
 
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
@@ -35,7 +35,7 @@
 | **Employment** | 2019.05~ 2021.05 | Researcher |	**KISTEP** |
 | **Education** |	2013.03 ~ 2019.02 |	Majored in Statistics |	**Sookmyung Women's University** |
 
-### Awards
+## Awards
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
 | **동상** | 2023.12  | Corning AI challenge - (track)Large language models (LLMs)을 이용한 query engine 작성 |	**Corning** |
@@ -48,7 +48,7 @@
 |:--------:|:--------:|:--------:|:--------:|:--------:|
 | **[LG Electronics](https://www.lge.co.kr/company/info/introduce)** | Retriever/Generator 고도화 | Multi-lingual RAG | [거대 언어모델 기반의 사내 Q&A 시스템 개발](https://dilab.hanyang.ac.kr/Projects.html) | 2023.11 ~ 2024.02 |
 
-###  Paper
+##  Paper
 
 | **Type** | **Date** | **Title** |**Contents** | **Track** |
 |:--------:|:--------:|:--------:|:--------:|:--------:|

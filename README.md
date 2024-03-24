@@ -52,6 +52,7 @@
 
 | **Type** | **Date** | **Title** |**Contents** | **Track** |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
+| **COLING** | 2024 | [SentiCSE: A Sentiment-aware Contrastive Sentence Embedding Framework with Sentiment-guided Textual Similarity]([http://www.hclt.kr/dwn/?v=bG5iOmNvbmZlcmVuY2U7aWR4OjM0](https://github.com/kimfunn/SentiCSE)) | Representation learning | **TBD** |
 | **HCLT** | 2022.10 | [SimKoR: 한국어 리뷰 데이터를 활용한 문장 유사도 데이터셋 제안 및 대조학습에서의 활용 방안](http://www.hclt.kr/dwn/?v=bG5iOmNvbmZlcmVuY2U7aWR4OjM0) | 언어자원 | **Oral** |
 | **ASK** | 2023.05 | [DAKS: 도메인 적응 기반 효율적인 매개변수 학습이 가능한 한국어 문장 분류 프레임워크]() | Sentence Representation | **Oral** |
 | **HCLT** | 2023.10 | [한국어 언어모델의 속성 및 정량적 편향 분석: 영어 언어모델과의 비교 및 개선 제안]() | Social Bias | **Oral** |
